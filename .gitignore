@@ -1,0 +1,9 @@
+.bundle
+vendor
+Gemfile.lock
+_vendor
+
+.vagrant
+*.swp
+pkg
+tmp
