@@ -92,13 +92,13 @@ libraries to use for the tests.  Sometimes, this can also provide
 configuration options.  In this example module, we pass some puppet-lint
 options.
 
+###`.rspec`
+
+Options for rspec.  Simple and not required.
+
 ###`spec/`
 
 This directory contains all of our tests and testing data.
-
-###`spec/spec.opts`
-
-Options for rspec.  Simple and not required.
 
 ###`spec/spec_helper.rb`
 
